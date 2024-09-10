@@ -199,7 +199,7 @@ sudo systemctl status prometheus
     - `http://localhost:9090/`
     
 
-## 5. Getting the /api
+## 6. Getting the /api
 
 From documentation from here 
 https://docs.availproject.org/api-reference/avail-lc-api
@@ -343,7 +343,7 @@ nohup python3 app.py > app.log 2>&1 &
 
 This code runned all the api commands in the machine and showed the results on the web 
 
-### 6. Setting up End points via nginx http server
+### 7. Setting up End points via nginx http server
 
 ### **1. Install Nginx**
 
