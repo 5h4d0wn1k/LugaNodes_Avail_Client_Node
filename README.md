@@ -78,5 +78,5 @@ the README only if user-facing behavior changes.
 
 ## License
 
-This repository does not currently ship a LICENSE file. Contact the owner
-before reuse.
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
